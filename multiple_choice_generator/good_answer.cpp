@@ -1,0 +1,4 @@
+/*antwoordScore()
+{
+    return 1;
+}*/

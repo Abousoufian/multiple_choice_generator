@@ -1,0 +1,167 @@
+Netwerken :
+- Welke OSI-layer is TCP ?
+  - 4 Transport layer
+  - 1 Physical layer
+  - 2 Data link layer
+  - 3 Network layer
+  - 5 Session layer
+  - 6 Presentation layer
+  - 7 Application layer
+- Welke OSI-layer is UDP ?
+  - 4 Transport layer
+  - 1 Physical layer
+  - 2 Data link layer
+  - 3 Network layer
+  - 5 Session layer
+  - 6 Presentation layer
+  - 7 Application layer
+- Welke OSI-layer is IPv4 ?
+  - 3 Network layer
+  - 1 Physical layer
+  - 2 Data link layer
+  - 4 Transport layer
+  - 5 Session layer
+  - 6 Presentation layer
+  - 7 Application layer
+- Welke OSI-layer is IPv6 ?
+  - 3 Network layer
+  - 1 Physical layer
+  - 2 Data link layer
+  - 4 Transport layer
+  - 5 Session layer
+  - 6 Presentation layer
+  - 7 Application layer
+- Welke OSI-layer is HTTP ?
+  - 7 Application layer
+  - 1 Physical layer
+  - 2 Data link layer
+  - 3 Network layer
+  - 4 Transport layer
+  - 5 Session layer
+  - 6 Presentation layer
+- Welke OSI-layer is DNS ?
+  - 7 Application layer
+  - 1 Physical layer
+  - 2 Data link layer
+  - 3 Network layer
+  - 4 Transport layer
+  - 5 Session layer
+  - 6 Presentation layer
+- Welke OSI-layer is Wifi IEEE802.11 ?
+  - 1 Physical layer
+  - 2 Data link layer
+  - 3 Network layer
+  - 4 Transport layer
+  - 5 Session layer
+  - 6 Presentation layer
+  - 7 Application layer
+- Welke OSI-layer is Ethernet met MAC addressen ?
+  - 2 Data link layer
+  - 1 Physical layer
+  - 3 Network layer
+  - 4 Transport layer
+  - 5 Session layer
+  - 6 Presentation layer
+  - 7 Application layer
+- Welk IP is localhost ?
+  - 127.0.0.1
+  - 172.0.0.1
+  - 127.0.0.0
+  - 172.0.0.0
+  - 192.168.0.1
+  - 192.168.1.1
+  - 0.0.0.0
+  - 1.1.1.1
+  - 255.255.255.255
+  - 0
+  - NULL
+  - x.x.0.1
+- Waarvoor dient een MAC adres ?
+  - Om een host-systeem herkenbaar te maken binnen een gedeelde fysieke verbinding
+  - Om een host-systeem een vast adres te geven dat kan gebruikt worden als identificatie op het internet
+  - Om een host-systeem te kunnen valideren voor een fysieke verbinding
+  - Om een host-systeem herkenbaar te maken tussen 2 systemen over het internet
+  - Om een host-systeem te kunnen adresseren binnen een LAN
+- Waarvoor dient een IP adres ?
+  - Om een host-systeem te kunnen adresseren binnen een LAN
+  - Om een host-systeem herkenbaar te maken binnen een gedeelde fysieke verbinding
+  - Om een host-systeem een vast adres te geven dat kan gebruikt worden als identificatie op het internet
+  - Om een host-systeem te kunnen valideren voor een fysieke verbinding
+
+
+C++ programmeren :
+- Wat gebeurt er bij : int a = 0;
+  - Een initialisatie
+  - Een assignment
+  - Een definitie
+  - Een klasse
+  - Een functie
+- Wat gebeurt er bij : int a;
+  - Een declaratie
+  - Een initialisatie
+  - Een definitie
+  - Een klasse
+  - Een functie
+- Wat type is : int a;
+  - Een variabele
+  - Een functie
+  - Een klasse
+  - Een member
+  - Een reeks
+- Wat type is : int a();
+  - Een functie
+  - Een reeks
+  - Een variabele
+  - Een member
+  - Een klasse
+- Wat type is : class A;
+  - Een klasse
+  - Een reeks
+  - Een functie
+  - Een member
+  - Een variabele
+- Wat toont volgende code aan :
+  class A
+  {
+    virtual void a() {}
+  };
+  class B : public A
+  {
+    void a() {}
+  };
+  - Een polymorfisme
+  - Een virtuele constructor
+  - Een member variabele
+  - Een publieke klasse declaratie
+  - Een functieoproep
+- Welke is een goed voorbeeld van overerving ?
+  - class B : public A;
+  - class A::B;
+  - class B extends A;
+  - class A->B;
+  - class B
+    {
+      public A :
+      B();
+    }
+- Welke is geen constructor ?
+  - class A
+    {
+      ~A();
+    }
+  - class A
+    {
+      A();
+    }
+  - class A
+    {
+      A(int);
+    }
+  - class A
+    {
+      A(void a) {}
+    }
+  - class A
+    {
+      A(int a, int b);
+    }
